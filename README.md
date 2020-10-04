@@ -1,10 +1,10 @@
 # my profile 
  name: Kaoru.K
- 
+
  gender: man
 
  age : 22
- 
+
  language&fw: Ruby, RoR, Js, React.js, Go
  
  career: Kwansei Gakuin SPS (media)→ DMM WEBCAMP → PECO.inc
