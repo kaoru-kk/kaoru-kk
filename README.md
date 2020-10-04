@@ -6,7 +6,7 @@
  age : 22
 
  language&fw: Ruby, RoR, Js, React.js, Go
- 
+
  career: Kwansei Gakuin SPS (media)→ DMM WEBCAMP → PECO.inc
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
