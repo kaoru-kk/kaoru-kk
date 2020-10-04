@@ -14,9 +14,4 @@
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=19980410&show_icons=true&theme=radical" />
-<<<<<<< HEAD
 </a> 
-=======
-</a>
- 
->>>>>>> a91662df13ff92770be2ab4f8622408c270601db
