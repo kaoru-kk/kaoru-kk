@@ -1,16 +1,17 @@
-### Hi there 👋
+# my profile 
+ name: Kaoru.K
+ 
+ gender: man
 
-<!--
-**kaoru-kk/kaoru-kk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ age : 22
+ 
+ language&fw: Ruby, RoR, Js, React.js, Go
+ 
+ career: Kwansei Gakuin SPS (media)→ DMM WEBCAMP → PECO.inc
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://github.com/anuraghazra/github-readme-stats">
+   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=19980410&layout=compact)](https://github.com/anuraghazra/github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=19980410&show_icons=true&theme=radical" />
+</a>
