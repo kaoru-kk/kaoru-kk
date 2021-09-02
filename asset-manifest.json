@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/kaoru-kk/static/css/main.9a419a73.chunk.css",
+    "main.js": "/kaoru-kk/static/js/main.95083602.chunk.js",
+    "main.js.map": "/kaoru-kk/static/js/main.95083602.chunk.js.map",
+    "runtime-main.js": "/kaoru-kk/static/js/runtime-main.01df5b86.js",
+    "runtime-main.js.map": "/kaoru-kk/static/js/runtime-main.01df5b86.js.map",
+    "static/js/2.1f72459a.chunk.js": "/kaoru-kk/static/js/2.1f72459a.chunk.js",
+    "static/js/2.1f72459a.chunk.js.map": "/kaoru-kk/static/js/2.1f72459a.chunk.js.map",
+    "index.html": "/kaoru-kk/index.html",
+    "static/css/main.9a419a73.chunk.css.map": "/kaoru-kk/static/css/main.9a419a73.chunk.css.map",
+    "static/js/2.1f72459a.chunk.js.LICENSE.txt": "/kaoru-kk/static/js/2.1f72459a.chunk.js.LICENSE.txt",
+    "static/media/logo.b2e5a01e.svg": "/kaoru-kk/static/media/logo.b2e5a01e.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.01df5b86.js",
+    "static/js/2.1f72459a.chunk.js",
+    "static/css/main.9a419a73.chunk.css",
+    "static/js/main.95083602.chunk.js"
+  ]
+}
