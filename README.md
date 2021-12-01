@@ -8,6 +8,8 @@
  language & fw: Ruby RoR Vue.js
 
  career: Kwansei Gakuin SPS (media)→ DMM WEBCAMP → PECO.inc
+ 
+ portfolio: https://who-am-i-k4oru.vercel.app/
 
 
 
