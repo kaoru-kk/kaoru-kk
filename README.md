@@ -5,7 +5,7 @@
 
  age : 23
 
- language & fw: Ruby RoR Vue.js　React.js
+ language & fw: Ruby RoR Vue.js React.js
 
  career: Kwansei Gakuin SPS (media)→ DMM WEBCAMP → PECO.inc
  
