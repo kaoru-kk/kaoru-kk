@@ -7,7 +7,7 @@
 
  language & fw: Ruby RoR Vue.js React.js
 
- career: Kwansei Gakuin SPS (media)→ DMM WEBCAMP (mentor, engineer intern )→ PECO.inc
+ career: Kwansei Gakuin SPS (media)→ DMM WEBCAMP ( mentor, engineer intern )→ PECO.inc
  
  portfolio: https://who-am-i-k4oru.vercel.app/
 
