@@ -3,7 +3,7 @@
  
  gender: man
 
- age : 2４
+ age : 24
 
  language & fw: Ruby RoR Vue.js React.js
 
