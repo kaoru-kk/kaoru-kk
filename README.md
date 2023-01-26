@@ -3,7 +3,7 @@
  
  gender: man
 
- age : 24
+ age : 25
 
  experience: Ruby RoR React.js Next.js TypeScript Vue.js WordPress, PM
 
