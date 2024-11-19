@@ -1,10 +1,6 @@
 # my profile 
  name: Kaoru.K
  
- gender: man
-
- age: 26 (1998/01/)
-
  experience: Ruby RoR React.js Next.js TypeScript Vue.js WordPress, PM
 
  career: Kwansei Gakuin SPS (media)→ DMM WEBCAMP ( mentor, engineer intern )→ PECO.inc → Freelance
