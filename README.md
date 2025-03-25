@@ -1,7 +1,7 @@
 # my profile 
  name: Kaoru.K
  
- experience: Ruby RoR React.js Next.js TypeScript Vue.js WordPress, PM
+ experience: Ruby RoR React.js Next.js TypeScript Vue.js WordPress Project Management
 
  career: Kwansei Gakuin SPS (media)→ DMM WEBCAMP ( mentor, engineer intern )→ PECO.inc → Freelance
 
